@@ -1,6 +1,9 @@
 # autoaugment_owndata
-train best augment policies on own dataset,and generate augmented images for kinds of using
+train best augment policies on own dataset,and generate augmented images for kinds of using(src  trans1  trans2  trans3)  
 
+<img src="https://github.com/Bella722/autoaugment_owndata/raw/main/test/bike0.png" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike0_0.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike0_1.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike0_2.jpg" width="180" height="105">  
+<img src="https://github.com/Bella722/autoaugment_owndata/raw/main/test/bike1.png" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike1_0.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike1_1.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike1_2.jpg" width="180" height="105">  
+<img src="https://github.com/Bella722/autoaugment_owndata/raw/main/test/bike2.png" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike2_0.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike2_1.jpg" width="180" height="105"><img src="https://github.com/Bella722/autoaugment_owndata/blob/main/results/bike2_2.jpg" width="180" height="105">
 # how to use
 1. put your data into dirctory like:  
     ```bash
